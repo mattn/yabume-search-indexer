@@ -1,0 +1,6 @@
+secret.yaml
+k8s
+*.sh
+yabume-search-indexer
+backup
+*.json
